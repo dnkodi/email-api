@@ -1,0 +1,14 @@
+
+# Node
+node_modules/
+npm-debug.log
+
+# IDE Files
+.idea/
+**.iml
+
+# Build Files
+dist/
+
+# Environmental Variables
+evars.json
